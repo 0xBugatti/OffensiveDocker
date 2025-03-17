@@ -21,8 +21,16 @@ OffensiveDocker is a tool designed to turn Docker Hub repository to secure exfil
 This Is Just POC of the Concept alot of Evasion Techniques could be Implemented but 
 I will not disclose the special edition and awaiting that from contributers
 
+# Installation 
+```bash
+git clone https://github.com/0xBugatti/OffensiveDocker.git
+cd OffensiveDocker/
+pip install -r requirements.txt
+python C2-server.py --user <username> --new --repo <repo> --token <docker_hub_token>
 
+```
 # Usage
+
 
 ## Create repos 
 
