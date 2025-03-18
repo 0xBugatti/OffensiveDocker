@@ -8,7 +8,7 @@ As Redteamer :
 Exfiltrate Data Over hub.docker.com 
 
 As Blue Teamer :
-From Tooday Dont Trust hub.docker.com 
+From Today Dont Trust hub.docker.com 
 ![odloogo](imgs/odlogo.png)
 
 # Features
