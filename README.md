@@ -104,9 +104,9 @@ python3 shellgen.py --repourl "https://hub.docker.com/v2/repositories/your-user/
 ```
 
 ## POCs
-![image](imgs/repogen.png)
-![image](imgs/win-revshell.png)
-![image](imgs/linux-revshell.png)
+![image](imgs/repogen.jpg)
+![image](imgs/win-revshell.jpg)
+![image](imgs/linux-revshell.jpg)
 ![image](imgs/linux.png)
 ![image](imgs/AD-Win.png)
 c2thedocker.png
@@ -118,5 +118,13 @@ This project is licensed under the MIT License.
 
 Developed by **0xbugatti**
 
+# 🚀 Follow Me  
+
+Stay connected and follow me on my social platforms!  
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@0xbugatti)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0xbugatti)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@0xbugatti)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/0xbugatti)  
 
 
